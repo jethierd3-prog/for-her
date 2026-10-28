@@ -1,0 +1,10 @@
+JOELEA’S SPECIAL BIRTHDAY GARDEN — QUICK DEPLOY GUIDE
+
+1. Extract this ZIP file.
+2. Upload to the MAIN LEVEL of your GitHub repository: index.html, css/ folder, js/ folder, music/ folder, README.md, and this file. Keep folders intact.
+3. Do not upload only the ZIP file, and do not add an extra nested project folder.
+4. In Render, click New + > Static Site and connect the repository.
+5. Use: Branch `main`; Root Directory blank; Build Command `echo "No build needed"`; Publish Directory `.`.
+6. Click Create Static Site. When the status is Live, open the site URL and test it on Android Chrome.
+
+This is a static site. It does not need Flask, Procfile, or requirements.txt.

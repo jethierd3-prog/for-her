@@ -1,0 +1,11 @@
+JOELEA PURPLE BIRTHDAY WEBSITE
+
+This ZIP keeps the original birthday letter and both Bible verses (Psalm 139:14 and Psalm 20:4) and updates the background to a more visible purple/lavender gradient.
+
+To update your existing GitHub repository:
+1. Extract this ZIP.
+2. Open your repository on GitHub.
+3. Click Add file > Upload files.
+4. Upload the extracted contents, keeping index.html at the repository root and the css, js, and music folders intact.
+5. Commit the changes to the main branch.
+6. Refresh your published website after a few minutes.
